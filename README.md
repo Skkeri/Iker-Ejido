@@ -4,7 +4,6 @@
 Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en Gestion de Bases de Datos. Me apasiona la informatica y siempre estoy buscando aprender y crecer en informatica y ciberseguridad.
 
 ## 🛠 Habilidades
------------------
 
 - **Lenguajes de Programación:** [Python, JavaScript, Java, C++, etc.]
 - **Frameworks y Librerías:** [React, Django, Angular, etc.]
@@ -25,6 +24,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 ## 💬 Contáctame
 
 - **Email:** iker.ejido@live.u-tad.com
+  --
 - **LinkedIn:** [Mi Perfil](https://es.linkedin.com/)
 - **Twitter:** [Mi Twitter](https://x.com/?lang=es)
 
