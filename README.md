@@ -1,7 +1,7 @@
 # Iker-Ejido
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Iker Ejido Martinez 👋
 
-Bienvenido a mi perfil de GitHub. Soy un [Tu Profesión/Especialidad] con experiencia en [Tu Campo de Especialización]. Me apasiona [Lo que te apasiona] y siempre estoy buscando aprender y crecer en [Áreas de interés].
+Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en Gestion de Bases de Datos. Me apasiona la informatica y siempre estoy buscando aprender y crecer en informatica y ciberseguridad.
 
 ## 🛠 Habilidades
 
