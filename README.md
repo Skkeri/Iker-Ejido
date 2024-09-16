@@ -24,10 +24,9 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 
 ## 💬 Contáctame
 
-- **Email:** [Tu Email]
+- **Email:** [iker.ejido@live.u-tad.com]
 - **LinkedIn:** [Mi Perfil](https://es.linkedin.com/)
-- **Twitter:** [Tu Perfil de Twitter](URL de Twitter)
-- **Página Web/Portafolio:** [Tu Página Web](URL de tu página web)
+- **Twitter:** [Mi Twitter](https://x.com/?lang=es)
 
 ## 📈 Estadísticas
 
