@@ -26,12 +26,6 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 - **LinkedIn:** [Mi Perfil](https://es.linkedin.com/)
 - **Twitter:** [Mi Twitter](https://x.com/?lang=es)
 
-## 📈 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Skkeri&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Skkeri&layout=compact&theme=dark)
-
 
 
 
