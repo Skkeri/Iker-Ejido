@@ -30,9 +30,9 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 
 ## 📈 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Skkeri&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Skkeri&layout=compact&theme=dark)
 
 ---
 
