@@ -25,7 +25,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 ## 💬 Contáctame
 
 - **Email:** [Tu Email]
-- **LinkedIn:** [Tu Perfil de LinkedIn](URL de LinkedIn)
+- **LinkedIn:** [Mi Perfil](https://es.linkedin.com/)
 - **Twitter:** [Tu Perfil de Twitter](URL de Twitter)
 - **Página Web/Portafolio:** [Tu Página Web](URL de tu página web)
 
