@@ -19,12 +19,6 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 
 - **[SAD_Actividad1_Investigación]**
   - Proyecto de Investigación de terminologia de ciberseguridad [Descargar PDF](SAD_Actividad1_Investigación_IkerEjido.pdf)
-  
-- **[Nombre del Proyecto 2]**
-  - Descripción breve del proyecto. [Enlace al repositorio](URL del repositorio)
-
-- **[Nombre del Proyecto 3]**
-  - Descripción breve del proyecto. [Enlace al repositorio](URL del repositorio)
 
 ## 💬 Contáctame
 
