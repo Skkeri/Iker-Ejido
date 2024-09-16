@@ -3,7 +3,7 @@
 
 Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en Gestion de Bases de Datos. Me apasiona la informatica y siempre estoy buscando aprender y crecer en informatica y ciberseguridad.
 
-## 🛠 <u>Habilidades</u>
+## 🛠 Habilidades
 
 - **Lenguajes de Programación:** [Python, JavaScript, Java, C++, etc.]
 - **Frameworks y Librerías:** [React, Django, Angular, etc.]
@@ -33,6 +33,17 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Skkeri&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Skkeri&layout=compact&theme=dark)
+
+**Texto en negrita**  
+*Texto en cursiva*  
+**_Texto en negrita y cursiva_**
+Esto es un texto ==subrayado== en algunas implementaciones de Markdown.
+> Esto es un texto destacado en un bloque de cita.
+- **Texto en lista con negritas**
+Texto destacado
+--------------
+Texto destacado 🖍️
+
 
 ---
 
