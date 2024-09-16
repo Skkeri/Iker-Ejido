@@ -23,10 +23,9 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 
 ## 💬 Contáctame
 
-- **Email:** iker.ejido@live.u-tad.com
-  --
-- **LinkedIn:** [Mi Perfil](https://es.linkedin.com/)
-- **Twitter:** [Mi Twitter](https://x.com/?lang=es)
+- **Email:** iker.ejido@live.u-tad.com🖍️
+- **LinkedIn:** [Mi Perfil](https://es.linkedin.com/)🖍️
+- **Twitter:** [Mi Twitter](https://x.com/?lang=es)🖍️
 
 ## 📈 Estadísticas
 
@@ -34,15 +33,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Skkeri&layout=compact&theme=dark)
 
-**Texto en negrita**  
-*Texto en cursiva*  
-**_Texto en negrita y cursiva_**
-Esto es un texto ==subrayado== en algunas implementaciones de Markdown.
-> Esto es un texto destacado en un bloque de cita.
-- **Texto en lista con negritas**
-Texto destacado
---------------
-Texto destacado 🖍️
+
 
 
 ---
