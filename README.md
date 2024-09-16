@@ -10,6 +10,12 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en G
 - **Herramientas y Tecnologías:** [Git, Docker, AWS, etc.]
 - **Bases de Datos:** [MySQL, PostgreSQL, MongoDB, etc.]
 
+## 💼 Experiencia Laboral
+
+- **Staff y promotor de eventos**
+- **Venta minorista**
+- **Hosteleria**
+
 ## 📚 Proyectos Destacados
 
 - **[SAD_Actividad1_Investigación]**
