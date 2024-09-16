@@ -4,6 +4,7 @@
 Bienvenido a mi perfil de GitHub. Soy un estudiante de ASIR con experiencia en Gestion de Bases de Datos. Me apasiona la informatica y siempre estoy buscando aprender y crecer en informatica y ciberseguridad.
 
 ## 🛠 Habilidades
+-----------------
 
 - **Lenguajes de Programación:** [Python, JavaScript, Java, C++, etc.]
 - **Frameworks y Librerías:** [React, Django, Angular, etc.]
